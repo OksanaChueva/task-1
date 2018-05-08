@@ -1,5 +1,5 @@
 # __Занятие 1__
-## Общая информация, VS Code, Markdown, Git
+ Общая информация, VS Code, Markdown, Git
 # __Профессии webdev__
  * Frontend
      * Верстка
@@ -48,8 +48,7 @@ windows.pdf
  * Ctrl+P — поиск файлов
  * Ctrl+Shift+L — выделить все экземпляры текущего
 выделения
-# __Markdown — язык__
-разметки
+# __Markdown — язык разметки__
  * https://guides.github.com/features/mastering-markdown/
  * Заголовки
  * Списки
